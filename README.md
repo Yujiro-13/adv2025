@@ -7,8 +7,8 @@ MNISTを使用した、学習のデモを確認できます.
 
 ## デモ内容
 
-![epoch 001]("outputs/epoch_001.png")
-![epoch 050]("outputs/epoch_050.png")
+![epoch 001](outputs/epoch_001.png)
+![epoch 050](outputs/epoch_050.png)
 
 
 ## 実行環境
@@ -48,7 +48,7 @@ Epoch [50/50] D: 0.2441, G: 4.2315
 ```
 
 出力された`loss_plot.pmg`から学習曲線を確認できます.
-![loss plot]("loss_plot.png")
+![loss plot](loss_plot.png)
 
 ## リポジトリ構成
 - `dcgan_mnist.py` : 学習を行うためのメインスクリプト
