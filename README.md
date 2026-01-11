@@ -10,7 +10,10 @@ MNISTを使用した、学習のデモを確認できます.
 左は学習初期（1エポック目）、右は学習終了時（50エポック目）の生成サンプルです。  
 学習が進むにつれ、より鮮明な数字が出力されていることが確認できます。
 
-![epoch 001](outputs/epoch_001.png) ![epoch 050](outputs/epoch_050.png)
+|![epoch 001](outputs/epoch_001.png)|![epoch 050](outputs/epoch_050.png)|
+|---|---|
+|1 epoch|50 epoch|
+
 
 
 ## 実行環境
