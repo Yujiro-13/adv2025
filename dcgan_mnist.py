@@ -10,7 +10,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader
 from torchvision import datasets, transforms
 from torchvision.utils import save_image, make_grid
-from tqdm import tqdm
+# from tqdm import tqdm
 
 # =============================================================================
 # 設定
